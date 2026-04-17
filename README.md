@@ -18,6 +18,6 @@
 
 1.Clone this repository:
 
-git clone https://github.com/project.git
+git clone https://github.com/project/login-authenti ation-system.git
 
 2.Open the index.html file in your browser.
